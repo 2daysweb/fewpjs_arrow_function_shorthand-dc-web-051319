@@ -1,4 +1,2 @@
-let divide = (p1, p2) => {
+let divide = (p1, p2) => p1/p2
   
-  2000/100
-}
